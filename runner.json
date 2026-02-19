@@ -1,9 +1,9 @@
-{ "manifestFiles" : [ "runner.data",
-"runner.js",
-"runner.wasm",
-"audio-worklet.js",
-"game.unx" ], "manifestFilesMD5" : [ "041044fb1d3490474ae1dedf4494e362",
-"9ea38b2c465024d351bcd10d0021e2de",
-"e33507c4aefd19d28c5da8f149fcfbb2",
-"e8f1e8db8cf996f8715a6f2164c2e44e",
-"2b62f9bed6113ca58d7a95524ea9f7d0" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.3.260", "yyc": false}}
+{ "manifestFiles" : [ "game.unx",
+"rcr_wasm.data",
+"rcr_wasm.html",
+"rcr_wasm.js",
+"rcr_wasm.wasm" ], "manifestFilesMD5" : [ "0db33d7840a0eb008c8e6d898cc89c75",
+"e5ca108e135e24fa8cd640c913dc585c",
+"68ad3d6dce50801eef14712e9453c5c4",
+"fed301ece8053065ae76c11a84222c54",
+"682fc12f1368b58902c86ef0247ea6ee" ], "mainJS" : "rcr_wasm.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.14.3.260", "yyc": true}}
